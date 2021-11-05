@@ -1,12 +1,12 @@
 # Android-Interview-Quetions
 I will upload latest android interview questions [Based on live interviews]
 
-Common Interview Quetions 
+# Common Interview Quetions 
 
 1. Tell me about your self?
 2. Why you are loocking for a job change?
 
-Android Related
+# Android Related
 
 1. What is Activity?
 2. What is ContextThemeWrapper?
@@ -21,8 +21,8 @@ Android Related
 11. Difference beetween Service and IntentService?
 12. Activity lifecycle methodes 
 13. Fragment lifecycle methods
-14 Types of servicess
-15 How you handle - when the user press back while the Async task is in progress?
+14. Types of servicess
+15. How you handle - when the user press back while the Async task is in progress?
 16. Explain launcher modes in android
 17. How you maintain multi platform base URLs using gradle
 18. What is mVC, MVP and MVVM and tell me the difference?
