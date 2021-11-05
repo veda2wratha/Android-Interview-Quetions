@@ -110,7 +110,7 @@ I will upload latest android interview questions [Based on live interviews]
 
 ## Interview 4 - [Interview Date - 1st Oct 2021, For 5+ Years] 
 
-- What is Memory Leaks and How to find Memory Leaks? 
+- What is Memory Leak and How to find Memory Leaks? 
     > A garbage collector runs periodically to check objects that are not in use and removes them. A Memory leaks will happen when there are objects that are not in use by the app but the garbage colletor connot recognize them. [Learne more](https://instabug.com/blog/how-to-fix-android-memory-leaks/)
 
 - How to communicate between two fragments / Activity? 
