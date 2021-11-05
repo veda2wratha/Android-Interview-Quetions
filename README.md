@@ -118,7 +118,7 @@ I will upload latest android interview questions [Based on live interviews]
 6. What is the difference between Hashmap and hash table
 7. Difference between mvc and mvvm
 8. What is Data binding
-    - The Data Binding Library is an Android Jetpack library that allows you to bind UI components in your XML layouts to data sources in your app using a    declarative format rather than programmatically, reducing boilerplate code. 
+    The Data Binding Library is an Android Jetpack library that allows you to bind UI components in your XML layouts to data sources in your app using a    declarative format rather than programmatically, reducing boilerplate code. 
 
 
 
