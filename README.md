@@ -108,18 +108,32 @@ I will upload latest android interview questions [Based on live interviews]
 14. What is the difference between extends and implementation
 
 
-## Interview 4
+## Interview 4 - [Interview Date - 1st Oct 2021, For 5+ Years] 
 
-1. How to find Memory leaks 
-2. How to communicate with two fragments 
-3. How to communicate with two apps
-4. What is the process in payment gatway integrations 
-5. Method over loading and overriding difference 
-6. What is the difference between Hashmap and hash table
-7. What is the difference between mvc, mvp and mvvm. 
+- What is Memory Leaks and How to find Memory Leaks? 
+    > A garbage collector runs periodically to check objects that are not in use and removes them. A Memory leaks will happen when there are objects that are not in use by the app but the garbage colletor connot recognize them. [Learne more](https://instabug.com/blog/how-to-fix-android-memory-leaks/)
+
+- How to communicate between two fragments / Activity? 
+    > The recommended way to communicate between fragments is to create a shared ViewModel. Both fragments can access the ViewModel through their containing Activity. [Learn more](https://developer.android.com/guide/fragments/communicate)
+
+- How to communicate between two apps?
+    - > There are two different ways for apps to interact on Android: via intents, passing data from one application to another; and through services, where one application provides functionality for others to use. [Leanr more](https://digital.ai/catalyst-blog/communicating-between-android-apps)
+    - > Content providers can help an application manage access to data stored by itself, stored by other apps, and provide a way to share data with other apps. [Learn more](https://developer.android.com/guide/topics/providers/content-providers.html)
+
+- How to integrate payment gatways in android app.[Learn more](https://www.mobindustry.net/blog/how-to-integrate-payment-gateway-in-a-mobile-app/) 
+
+- What is Method Overloading and Method Overriding?
+    > **Overloading** occurs when two or more methods in one class have the same method name but different parameters.
+    **Overriding** occurs when two methods have the same method name and parameters. One of the methods is in the parent class, and the other is in the child   class. Overriding allows a child class to provide the specific implementation of a method that is already present in its parent class.[Learne more](https://www.educative.io/edpresso/overloading-vs-overriding)
+
+- What is the difference between Hashmap and Hashtable. [Learne more](https://www.geeksforgeeks.org/differences-between-hashmap-and-hashtable-in-java/)
+
+- What is the difference between MVC, MVP and MVVM. 
     > Both MVP and MVVM are derivatives of MVC. The key difference between MVC and its derivatives is the dependency each layer has on other layers, as well as how tightly bound they are to each other. ... MVVM attempts to avoid these issues. In MVP, the role of the controller is replaced with a Presenter. [Learne More](https://www.oreilly.com/library/view/learning-javascript-design/9781449334840/ch10s09.html)
-8. What is Data binding?
+- What is Data binding?
     > The Data Binding Library is an Android Jetpack library that allows you to bind UI components in your XML layouts to data sources in your app using a    declarative format rather than programmatically, reducing boilerplate code. [Learne More](https://developer.android.com/topic/libraries/data-binding)
+- What is PendingIntent?
+    > A PendingIntent is a token that you give to a foreign application (e.g. NotificationManager, AlarmManager, Home Screen AppWidgetManager, or other 3rd party applications), which allows the foreign application to use your application's permissions to execute a predefined piece of code. [Learn more](https://stackoverflow.com/questions/2808796/what-is-an-android-pendingintent)
 
 
 
