@@ -2,14 +2,11 @@
 I will upload latest android interview questions [Based on live interviews]
 
 ## Common Interview Quetions 
-## Android Related
-## Interview 2
-
 
 1. Tell me about your self?
 2. Why you are loocking for a job change?
 
-## Android Related
+## Android Interview Quetions
 
 1. What is Activity?
 2. What is ContextThemeWrapper?
@@ -47,7 +44,6 @@ I will upload latest android interview questions [Based on live interviews]
 34. Replacements of weights in constraint layout
 35. How glide and picasso works internally
 36. How firebase library works internally
-
 
 
 
@@ -96,7 +92,6 @@ I will upload latest android interview questions [Based on live interviews]
 
 ## Interview 3
 
-
 1. Tell me about yourself 
 2. What are the design patters you worked on ?
 3. You worked on any Java Design Patterns 
@@ -114,6 +109,7 @@ I will upload latest android interview questions [Based on live interviews]
 
 
 ## Interview 4
+
 1. How to find Memory leaks 
 2. How to communicate with two fragments 
 3. How to communicate with two apps
@@ -122,10 +118,7 @@ I will upload latest android interview questions [Based on live interviews]
 6. What is the difference between Hashmap and hash table
 7. Difference between mvc and mvvm
 8. What is Data binding
-
-
-
-
+    - The Data Binding Library is an Android Jetpack library that allows you to bind UI components in your XML layouts to data sources in your app using a    declarative format rather than programmatically, reducing boilerplate code. 
 
 
 
