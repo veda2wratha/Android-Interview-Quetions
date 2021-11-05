@@ -90,17 +90,19 @@ I will upload latest android interview questions [Based on live interviews]
 
 
 
-## Interview 3
+## Interview 3  [Interview Date - 25th Oct 2021] 
 
-1. Tell me about yourself 
-2. What are the design patters you worked on ?
-3. You worked on any Java Design Patterns 
-4. Do you know about Single ton patters 
-5. What is single ton class
-6. What is the difference between architectural and design patters 
-7. How to avoid dead lock situation while using the singleton - How to make a singleton class  as a thred safe
-8. Do you have any idea on double thread lock 
-9. How array Lins and Hashmat internally works 
+- What are the design patters? You worked on any? [Learn more] [https://www.freecodecamp.org/news/the-basic-design-patterns-all-developers-need-to-know/]
+ 
+- What is single ton class?
+    > A Singleton class in Java allows only one instance to be created and provides global access to all other classes through this single object or instance. Similar to the static fields, The instance fields(if any) of a class will occur only for a single time. [Learn more](https://www.geeksforgeeks.org/singleton-class-java/)
+    
+- What is the difference between architectural and design patters?
+    > Architecture comes in Designing phase and Design Patterns comes in Building phase. Architectural pattern is like a blue print and design pattern is actual implementation. Architecture is base which everything else adhere to and design pattern is a way to structure classes to solve common problems. [Learn more](https://singhdivesh.medium.com/according-to-wikipedia-b1afa6de08c#:~:text=Architecture%20comes%20in%20Designing%20phase,classes%20to%20solve%20common%20problems.)
+     
+9. How to avoid dead lock situation while using the singleton - How to make a singleton class  as a thred safe
+10. Do you have any idea on double thread lock 
+11. How array Lins and Hashmat internally works 
 10 What is the difference between growable list and fixed list.
 11. What is serialisation and parsalable 
 12. Do you have any ideas on comparable and compare to.
@@ -108,7 +110,7 @@ I will upload latest android interview questions [Based on live interviews]
 14. What is the difference between extends and implementation
 
 
-## Interview 4 - [Interview Date - 1st Oct 2021, For 5+ Years] 
+## Interview 4 - [Interview Date - 1st Nov 2021] 
 
 - What is Memory Leak and How to find Memory Leaks? 
     > A garbage collector runs periodically to check objects that are not in use and removes them. A Memory leaks will happen when there are objects that are not in use by the app but the garbage colletor connot recognize them. [Learne more](https://instabug.com/blog/how-to-fix-android-memory-leaks/)
@@ -129,9 +131,9 @@ I will upload latest android interview questions [Based on live interviews]
 - What is the difference between Hashmap and Hashtable. [Learne more](https://www.geeksforgeeks.org/differences-between-hashmap-and-hashtable-in-java/)
 
 - What is the difference between MVC, MVP and MVVM. 
-    > Both MVP and MVVM are derivatives of MVC. The key difference between MVC and its derivatives is the dependency each layer has on other layers, as well as how tightly bound they are to each other. ... MVVM attempts to avoid these issues. In MVP, the role of the controller is replaced with a Presenter. [Learne More](https://www.oreilly.com/library/view/learning-javascript-design/9781449334840/ch10s09.html)
+    > Both MVP and MVVM are derivatives of MVC. The key difference between MVC and its derivatives is the dependency each layer has on other layers, as well as how tightly bound they are to each other. ... MVVM attempts to avoid these issues. In MVP, the role of the controller is replaced with a Presenter. [Learne more](https://www.oreilly.com/library/view/learning-javascript-design/9781449334840/ch10s09.html)
 - What is Data binding?
-    > The Data Binding Library is an Android Jetpack library that allows you to bind UI components in your XML layouts to data sources in your app using a    declarative format rather than programmatically, reducing boilerplate code. [Learne More](https://developer.android.com/topic/libraries/data-binding)
+    > The Data Binding Library is an Android Jetpack library that allows you to bind UI components in your XML layouts to data sources in your app using a    declarative format rather than programmatically, reducing boilerplate code. [Learne more](https://developer.android.com/topic/libraries/data-binding)
 - What is PendingIntent?
     > A PendingIntent is a token that you give to a foreign application (e.g. NotificationManager, AlarmManager, Home Screen AppWidgetManager, or other 3rd party applications), which allows the foreign application to use your application's permissions to execute a predefined piece of code. [Learn more](https://stackoverflow.com/questions/2808796/what-is-an-android-pendingintent)
 
