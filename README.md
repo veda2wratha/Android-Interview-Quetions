@@ -1,12 +1,12 @@
 # Android-Interview-Quetions
 I will upload latest android interview questions [Based on live interviews]
 
-# Common Interview Quetions 
+## Common Interview Quetions 
 
 1. Tell me about your self?
 2. Why you are loocking for a job change?
 
-# Android Related
+## Android Related
 
 1. What is Activity?
 2. What is ContextThemeWrapper?
@@ -48,7 +48,7 @@ I will upload latest android interview questions [Based on live interviews]
 
 
 
-// Interview 1
+## Interview 1
 1. Can I you tell me what is MVVM
 2. What is current project and explain it.
 3. Tell me about OOPS Concepts and explain each 
@@ -61,67 +61,64 @@ I will upload latest android interview questions [Based on live interviews]
 
 
 
-// Interview 2
+## Interview 2
 
-Tell me about yourself
-What is your current project
-What are the technical changes you faced in current project?
-Do you know any design patters 
-You know Any Java design patters 
-What is singleton pattern
-How do you make a class as single ton and how do you know the class become single ton
-Get common elements from two lists better 
-We have employee object having name. Id and salary, how do you sort - how do you sort by using employee id - Give Better approach
-What is the advantage of tree set ?
-When to use tree set?
-Do you when to use concertante Hashmap?
-Did you worked Multi threding ?
-How to call two web services at a time, simultaneously?
-How to call two web services at a time using retrofit or async task
-What is async task is it a class or interface or abstract class?
-Can’t we call two apis using async call same time.
-In coordinator layout how to make an image view to be always top right.
-When we use frame layout ? Give best example 
-Did you worked on dagger and hilt?
-General example how dependency injection works
-Do you have experience in retrofit
-What are the advantages if we use Room
-Did you worked on RxJAvA
-What is the advantage of MVVM
-
-
-
-// Interview 3
-
-	1. Egg and building 
-	2. Candle and time
-	3. All problem solving skills 
-
-Tell me about yourself 
-What are the design patters you worked on ?
-You worked on any Java Design Patterns 
-Do you know about Single ton patters 
-What is single ton class
-What is the difference between architectural and design patters 
-How to avoid dead lock situation while using the singleton - How to make a singleton class  as a thred safe
-Do you have any idea on double thread lock 
-How array Lins and Hashmat internally works 
-What is the difference between growable list and fixed list.
-What is serialisation and parsalable 
-Do you have any ideas on comparable and compare to.
-How comparator workes internally
-What is the difference between extends and implementation
+1. Tell me about yourself
+2. What is your current project
+3. What are the technical changes you faced in current project?
+4. Do you know any design patters 
+5. You know Any Java design patters 
+6. What is singleton pattern
+7. How do you make a class as single ton and how do you know the class become single ton
+8. Get common elements from two lists better 
+9. We have employee object having name. Id and salary, how do you sort - how do you sort by using employee id - Give Better approach
+10. What is the advantage of tree set ?
+11. When to use tree set?
+12. Do you when to use concertante Hashmap?
+13. Did you worked Multi threding ?
+14. How to call two web services at a time, simultaneously?
+15. How to call two web services at a time using retrofit or async task
+16. What is async task is it a class or interface or abstract class?
+17. Can’t we call two apis using async call same time.
+18. In coordinator layout how to make an image view to be always top right.
+19. When we use frame layout ? Give best example 
+20. Did you worked on dagger and hilt?
+21. General example how dependency injection works
+22. Do you have experience in retrofit
+23. What are the advantages if we use Room
+24. Did you worked on RxJAvA
+25. What is the advantage of MVVM
 
 
-// Interview 4
-How to find Memory leaks 
-How to communicate with two fragments 
-How to communicate with two apps
-What is the process in payment gatway integrations 
-Method over loading and overriding difference 
-What is the difference between Hashmap and hash table
-Difference between mvc and mvvm
-What is Data binding
+
+## Interview 3
+
+
+1. Tell me about yourself 
+2. What are the design patters you worked on ?
+3. You worked on any Java Design Patterns 
+4. Do you know about Single ton patters 
+5. What is single ton class
+6. What is the difference between architectural and design patters 
+7. How to avoid dead lock situation while using the singleton - How to make a singleton class  as a thred safe
+8. Do you have any idea on double thread lock 
+9. How array Lins and Hashmat internally works 
+10 What is the difference between growable list and fixed list.
+11. What is serialisation and parsalable 
+12. Do you have any ideas on comparable and compare to.
+13. How comparator workes internally
+14. What is the difference between extends and implementation
+
+
+## Interview 4
+1. How to find Memory leaks 
+2. How to communicate with two fragments 
+3. How to communicate with two apps
+4. What is the process in payment gatway integrations 
+5. Method over loading and overriding difference 
+6. What is the difference between Hashmap and hash table
+7. Difference between mvc and mvvm
+8. What is Data binding
 
 
 
