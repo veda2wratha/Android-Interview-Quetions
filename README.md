@@ -92,7 +92,7 @@ I will upload latest android interview questions [Based on live interviews]
 
 ## Interview 3  [Interview Date - 25th Oct 2021] 
 
-- What are the design patters? You worked on any? [Learn more] [https://www.freecodecamp.org/news/the-basic-design-patterns-all-developers-need-to-know/]
+- What are the design patters? Have you worked on any design patterns? [Learn more](https://www.freecodecamp.org/news/the-basic-design-patterns-all-developers-need-to-know/)
  
 - What is single ton class?
     > A Singleton class in Java allows only one instance to be created and provides global access to all other classes through this single object or instance. Similar to the static fields, The instance fields(if any) of a class will occur only for a single time. [Learn more](https://www.geeksforgeeks.org/singleton-class-java/)
@@ -100,14 +100,19 @@ I will upload latest android interview questions [Based on live interviews]
 - What is the difference between architectural and design patters?
     > Architecture comes in Designing phase and Design Patterns comes in Building phase. Architectural pattern is like a blue print and design pattern is actual implementation. Architecture is base which everything else adhere to and design pattern is a way to structure classes to solve common problems. [Learn more](https://singhdivesh.medium.com/according-to-wikipedia-b1afa6de08c#:~:text=Architecture%20comes%20in%20Designing%20phase,classes%20to%20solve%20common%20problems.)
      
-9. How to avoid dead lock situation while using the singleton - How to make a singleton class  as a thred safe
-10. Do you have any idea on double thread lock 
-11. How array Lins and Hashmat internally works 
-10 What is the difference between growable list and fixed list.
-11. What is serialisation and parsalable 
-12. Do you have any ideas on comparable and compare to.
-13. How comparator workes internally
-14. What is the difference between extends and implementation
+- How to avoid dead lock situation while using the singleton / How to make a singleton class as a thred safe ? [Learn more](https://www.javatpoint.com/how-to-avoid-deadlock-in-java)
+
+- Do you have any idea on double thread lock.
+
+- How array List and Hashmap internally works? [Learn about Hashmap](https://www.youtube.com/watch?v=CojCE-ojdGY&ab_channel=SeleniumExpress) [Learn about ArrayList](https://www.youtube.com/watch?v=SHwVUEYcXUA&t=206s&ab_channel=SeleniumExpress)
+
+- What is the difference between growable list and fixed list. [Learn more](https://www.baeldung.com/java-list-capacity-array-size)
+
+- What is serialisation and parsalable [Learn more](https://proandroiddev.com/serializable-or-parcelable-why-and-which-one-17b274f3d3bb)
+- Do you have any ideas on comparable and compare to.
+- How comparator workes internally.
+- What is the difference between extends and implementation.
+- Write a programe to sort a given string without using collections sort?
 
 
 ## Interview 4 - [Interview Date - 1st Nov 2021] 
