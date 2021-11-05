@@ -49,15 +49,15 @@ Android Related
 
 
 // Interview 1
-Can I you tell me what is MVVM
-What is current project and explain it.
-Tell me about OOPS Concepts and explain each 
-What is Collections and explain it - https://www.javatpoint.com/collections-in-java
-Explain List & Map and difference 
-For storing/ retriving the data what method will use in retrofit and when to use post and when to use get?
-What is synchronisation? - Synchronisation in java is the capability to control the access of multiple threads to any shared resource. In the Multithreading concept, multiple threads try to access the shared resources at a time to produce inconsistent results. The synchronisation is necessary for reliable communication between threads
-Explain Thread lifecycle - New-runnable-running-wait/block-terminate/stop
-Write a code to display a badge count on an app icon
+1. Can I you tell me what is MVVM
+2. What is current project and explain it.
+3. Tell me about OOPS Concepts and explain each 
+4. What is Collections and explain it
+5. Explain List & Map and difference 
+6. For storing/ retriving the data what method will use in retrofit and when to use post and when to use get?
+7. What is synchronisation? 
+8. Explain Thread lifecycle - New-runnable-running-wait/block-terminate/stop
+9. Write a code to display a badge count on an app icon
 
 
 
