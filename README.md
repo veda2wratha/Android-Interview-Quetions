@@ -116,9 +116,9 @@ I will upload latest android interview questions [Based on live interviews]
 4. What is the process in payment gatway integrations 
 5. Method over loading and overriding difference 
 6. What is the difference between Hashmap and hash table
-7. Difference between mvc and mvvm
-8. What is Data binding
-    The Data Binding Library is an Android Jetpack library that allows you to bind UI components in your XML layouts to data sources in your app using a    declarative format rather than programmatically, reducing boilerplate code. 
+7. What is the difference between mvc, mvp and mvvm. - Both MVP and MVVM are derivatives of MVC. The key difference between MVC and its derivatives is the dependency each layer has on other layers, as well as how tightly bound they are to each other. ... MVVM attempts to avoid these issues. In MVP, the role of the controller is replaced with a Presenter. [Learne More](https://www.oreilly.com/library/view/learning-javascript-design/9781449334840/ch10s09.html)
+8. What is Data binding?
+    > The Data Binding Library is an Android Jetpack library that allows you to bind UI components in your XML layouts to data sources in your app using a    declarative format rather than programmatically, reducing boilerplate code. [Learne More](https://developer.android.com/topic/libraries/data-binding)
 
 
 
