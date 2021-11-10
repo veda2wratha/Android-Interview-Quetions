@@ -46,17 +46,16 @@ I will upload latest android interview questions [Based on live interviews]
 36. How firebase library works internally
 
 
-
 ## Interview 1
-1. Can I you tell me what is MVVM
-2. What is current project and explain it.
-3. Tell me about OOPS Concepts and explain each 
-4. What is Collections and explain it
-5. Explain List & Map and difference 
-6. For storing/ retriving the data what method will use in retrofit and when to use post and when to use get?
-7. What is synchronisation? 
-8. Explain Thread lifecycle - New-runnable-running-wait/block-terminate/stop
-9. Write a code to display a badge count on an app icon
+- Can I you tell me what is MVVM
+- What is current project and explain it.
+- Tell me about OOPS Concepts and explain each 
+- What is Collections and explain it
+- Explain List & Map and difference 
+- For storing/ retriving the data what method will use in retrofit and when to use post and when to use get?
+- What is synchronisation? 
+- Explain Thread lifecycle - New-runnable-running-wait/block-terminate/stop
+- Write a code to display a badge count on an app icon
 
 
 
@@ -141,6 +140,41 @@ I will upload latest android interview questions [Based on live interviews]
     > The Data Binding Library is an Android Jetpack library that allows you to bind UI components in your XML layouts to data sources in your app using a    declarative format rather than programmatically, reducing boilerplate code. [Learne more](https://developer.android.com/topic/libraries/data-binding)
 - What is PendingIntent?
     > A PendingIntent is a token that you give to a foreign application (e.g. NotificationManager, AlarmManager, Home Screen AppWidgetManager, or other 3rd party applications), which allows the foreign application to use your application's permissions to execute a predefined piece of code. [Learn more](https://stackoverflow.com/questions/2808796/what-is-an-android-pendingintent)
+
+
+## Interview 5 [Interview Date - 6th Nov 2021] 
+
+- How to launch activity without using class
+
+- What happens if we don't use run time permissions and call camera open 
+
+- What are intents and types
+
+- Service and intetnt service 
+- Diff between MVP and MVVM 
+
+- What is string class, data type or object 
+
+- In Kotlin switch case is available or not 
+
+- How to create single Tom class in kotlin
+- How to load images from web 
+
+- How to implement push notifications.. explain the process 
+
+- Async is depcricated what is the alternative
+
+- User of contraint layout 
+- What is data binding?
+- Types of services
+- To load images what permissions we required 
+- What is synchronised and parcelable 
+- What is the difference between var and val 
+- What is mutable and immutable 
+- What are premitive and non data types in kotlin ? 
+
+
+
 
 
 
