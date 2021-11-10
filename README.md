@@ -24,7 +24,7 @@ Android Activity is the subclass of ContextThemeWrapper class.
   > A widget is a small gadget or control of your android application placed on the home screen. Widgets can be very handy as they allow you to put your favorite applications on your home screen in order to quickly access them. You have probably seen some common widgets, such as music widget, weather widget, clock widget e.t.c
 
 - Difference Between Class and Abstract class?
-  In Class, We use the class as a keyword and in the abstract class, the abstract is the keyword and in the interface, the interface is the keyword.
+  > In Class, We use the class as a keyword and in the abstract class, the abstract is the keyword and in the interface, the interface is the keyword.
 In class, we have only concrete methods and in the abstract class, we have both concrete and abstract methods 
 The concrete method means a method that as implementation. [Learn more](https://www.youtube.com/watch?v=zb4caZzuNI8&ab_channel=DurgaSoftwareSolutions)
 
