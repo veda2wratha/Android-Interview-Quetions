@@ -3,47 +3,62 @@ I will upload latest android interview questions [Based on live interviews]
 
 ## Common Interview Quetions 
 
-1. Tell me about your self?
-2. Why you are loocking for a job change?
+- Tell me about your self?
+- Why you are loocking for a job change?
+  > I are looking for better career prospects, professional growth and work opportunities. You want a change in career direction. You are looking for new challenges at work. You were made redundant or the company closed down.
+  
 
 ## Android Interview Quetions
 
-1. What is Activity?
-2. What is ContextThemeWrapper?
-3. What is Context?
-4. What is a Widget?
-5. Difference Between Class and Abstract class?
-6. When to use Interface and Abstract Class?
-7. What is the difference between public, private and protected?
-8. What is Multithreading?
-9. Explain OOPS concepts in java
-10. What is Overloading and Overriding?
-11. Difference beetween Service and IntentService?
-12. Activity lifecycle methodes 
-13. Fragment lifecycle methods
-14. Types of servicess
-15. How you handle - when the user press back while the Async task is in progress?
-16. Explain launcher modes in android
-17. How you maintain multi platform base URLs using gradle
-18. What is mVC, MVP and MVVM and tell me the difference?
-19. Why we need to use Kotlin?
-20. Types of access modifiers and access specifiers
-21. Diff b/w interface, marker interface & abstract class
-22. Where we use LinkedList over Arraylist and vice versa?
-23. How hash map works internally
-24. Live Data - types - usage
-25. Difference between interface and class? 
-26. Split a link list in half in one itration
-27. Does hash map can take null as key & value?
-28. Does set store null as value
-29. Activity A->B->C->D - how you go back directly to B from D
-30. Difference between comparable and comparator
-31. Diff b/w final, finalize and finally
-32. Thread to thread communication
-33. Difference b/w coordinator and constraint layout
-34. Replacements of weights in constraint layout
-35. How glide and picasso works internally
-36. How firebase library works internally
+- What is Activity?
+  > An activity represents a single screen with a user interface just like a window or frame of Java. 
+Android Activity is the subclass of ContextThemeWrapper class.
+
+- What is ContextThemeWrapper?
+  > ContextThemeWrapper adds theming support to a Context, otherwise, you can't apply any theme to the Views you create. That's why Activity layouts support themes while widget layouts don't, for example. You can also create a ContextThemeWrapper yourself to override the current theme with another one.
+  
+- What is Context?
+  > As the name suggests, it's the context of the current state of the application/object. [Learn more](https://stackoverflow.com/questions/3572463/what-is-context-on-android)
+
+- What is a Widget?
+  > A widget is a small gadget or control of your android application placed on the home screen. Widgets can be very handy as they allow you to put your favorite applications on your home screen in order to quickly access them. You have probably seen some common widgets, such as music widget, weather widget, clock widget e.t.c
+
+- Difference Between Class and Abstract class?
+  In Class, We use the class as a keyword and in the abstract class, the abstract is the keyword and in the interface, the interface is the keyword.
+In class, we have only concrete methods and in the abstract class, we have both concrete and abstract methods 
+The concrete method means a method that as implementation. [Learn more](https://www.youtube.com/watch?v=zb4caZzuNI8&ab_channel=DurgaSoftwareSolutions)
+
+8. When to use Interface and Abstract Class?
+9. What is the difference between public, private and protected?
+10. What is Multithreading?
+11. Explain OOPS concepts in java
+12. What is Overloading and Overriding?
+13. Difference beetween Service and IntentService?
+14. Activity lifecycle methodes 
+15. Fragment lifecycle methods
+16. Types of servicess
+17. How you handle - when the user press back while the Async task is in progress?
+18. Explain launcher modes in android
+19. How you maintain multi platform base URLs using gradle
+20. What is mVC, MVP and MVVM and tell me the difference?
+21. Why we need to use Kotlin?
+22. Types of access modifiers and access specifiers
+23. Diff b/w interface, marker interface & abstract class
+24. Where we use LinkedList over Arraylist and vice versa?
+25. How hash map works internally
+26. Live Data - types - usage
+27. Difference between interface and class? 
+28. Split a link list in half in one itration
+29. Does hash map can take null as key & value?
+30. Does set store null as value
+31. Activity A->B->C->D - how you go back directly to B from D
+32. Difference between comparable and comparator
+33. Diff b/w final, finalize and finally
+34. Thread to thread communication
+35. Difference b/w coordinator and constraint layout
+36. Replacements of weights in constraint layout
+37. How glide and picasso works internally
+38. How firebase library works internally
 
 
 ## Interview 1
