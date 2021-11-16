@@ -12,7 +12,7 @@ I will upload latest android interview questions [Based on live interviews]
 
 - What is Activity?
   > An activity represents a single screen with a user interface just like a window or frame of Java. 
-Android Activity is the subclass of ContextThemeWrapper class.
+Android Activity is the subclass of ContextThemeWrapper class. [Learn more](https://developer.android.com/guide/components/activities/intro-activities)
 
 - What is ContextThemeWrapper?
   > ContextThemeWrapper adds theming support to a Context, otherwise, you can't apply any theme to the Views you create. That's why Activity layouts support themes while widget layouts don't, for example. You can also create a ContextThemeWrapper yourself to override the current theme with another one.
