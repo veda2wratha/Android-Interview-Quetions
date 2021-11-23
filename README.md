@@ -160,33 +160,56 @@ The concrete method means a method that as implementation. [Learn more](https://
 ## Interview 5 [Interview Date - 6th Nov 2021] 
 
 - How to launch activity without using class
+  > Intent myIntent = new Intent();
+myIntent.setComponent(new ComponentName("com.example", "com.example.MyExample")); 
+startActivity(myIntent);
 
 - What happens if we don't use run time permissions and call camera open 
 
 - What are intents and types
+  > We can use intents to start the android components like activities or services. Two type of intents 
+  > Implicit Intent - Implicit Intent doesn't specifiy the component. In such case, intent provides information of available components provided by the system that is to be invoked.
+  > Explicit Intent specifies the component. In such case, intent provides the external class to be invoked.
+- Service and intetnt service
+  > Service
+You may think of Service as an Android component that is used to run long-running operations in the background, such as in the Music app, where we run the app in the background while using other mobile apps at the same time. The best thing is that you don’t have to provide any user interface for the background operations.
+  > Intent Service
+The IntentService base class is the Operation. Essentially, it employs a “job queue operation,” in which the IntentService manages clients’ on-demand requests (expressed as Intents). As a result, the Service will be started whenever a client sends a request, and it will be stopped after each Purpose has been addressed. 
 
-- Service and intetnt service 
-- Diff between MVP and MVVM 
+- What is the Diff between MVP and MVVM [Learn more](https://www.geeksforgeeks.org/difference-between-mvp-and-mvvm-architecture-pattern-in-android/)
 
 - What is string class, data type or object 
 
 - In Kotlin switch case is available or not 
-
-- How to create single Tom class in kotlin
+  > In Kotlin we use when in place of switch.
+- How to create single Tom class in kotlin?
+  > Will use object keyword to create singleton in kotlin.
 - How to load images from web 
+  > Will use picasso or glide librarires to load the images
 
 - How to implement push notifications.. explain the process 
 
 - Async is depcricated what is the alternative
 
-- User of contraint layout 
+- What is the User of contraint layout?
+  > ConstraintLayout allows you to create large and complex layouts with a flat view hierarchy (no nested view groups). It's similar to RelativeLayout in that all views are laid out according to relationships between sibling views and the parent layout, but it's more flexible than RelativeLayout and easier to use with Android Studio's Layout Editor.[Learn more](https://developer.android.com/training/constraint-layout)
 - What is data binding?
+  > The Data Binding Library is an Android Jetpack library that allows you to bind UI components in your XML layouts to data sources in your app using a declarative format rather than programmatically, reducing boilerplate code.
 - Types of services
-- To load images what permissions we required 
-- What is synchronised and parcelable 
-- What is the difference between var and val 
+  > 3 types of services available in android 1. Foreground Services 2. Background Services 3. Bound servicess [Leaner more](https://www.geeksforgeeks.org/services-in-android-with-example/)
+- To load images what permissions we required? 
+  > We need internet permission to load images.
+- What is synchronised and parcelable? 
+  >[learn more](https://proandroiddev.com/serializable-or-parcelable-why-and-which-one-17b274f3d3bb)
+- What is syncronization?
+  > Synchronization in java is the capability to control the access of multiple threads to any shared resource. In the Multithreading concept, multiple threads try to access the shared resources at a time to produce inconsistent results. The synchronization is necessary for reliable communication between threads.
+- What is the difference between var and val in kotlin?
+  > var is like a general variable and can be assigned multiple times and is known as the mutable variable in Kotlin. Whereas val is a constant variable and can not be assigned multiple times and can be Initialized only single time and is known as the immutable variable in Kotlin.
 - What is mutable and immutable 
-- What are premitive and non data types in kotlin ? 
+  > A mutable object can be changed after it's created, and an immutable object can't. 
+- What are premitive and non premitive data types in kotlin ? 
+  > Premitive Data Types- int, byte, short, double, float, char, boolean 
+  > Non-Premitive - Class, object, array, string, and interface are called non-primitive data types in Java
 
 
 
