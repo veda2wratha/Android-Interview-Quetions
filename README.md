@@ -4,7 +4,7 @@ I will upload latest android interview questions [Based on live interviews]
 ## Common Interview Quetions 
 
 - Tell me about your self?
-- Why you are loocking for a job change?
+- Why you are looking for a job change?
   > I are looking for better career prospects, professional growth and work opportunities. You want a change in career direction. You are looking for new challenges at work. You were made redundant or the company closed down.
   
 
