@@ -199,7 +199,7 @@ The IntentService base class is the Operation. Essentially, it employs a “job 
   > 3 types of services available in android 1. Foreground Services 2. Background Services 3. Bound servicess [Leaner more](https://www.geeksforgeeks.org/services-in-android-with-example/)
 - To load images what permissions we required? 
   > We need internet permission to load images.
-- What is synchronised and parcelable? 
+- What is Serializable and parcelable? 
   >[learn more](https://proandroiddev.com/serializable-or-parcelable-why-and-which-one-17b274f3d3bb)
 - What is syncronization?
   > Synchronization in java is the capability to control the access of multiple threads to any shared resource. In the Multithreading concept, multiple threads try to access the shared resources at a time to produce inconsistent results. The synchronization is necessary for reliable communication between threads.
