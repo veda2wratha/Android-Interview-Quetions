@@ -61,7 +61,7 @@ The concrete method means a method that as implementation. [Learn more](https://
 38. How firebase library works internally
 
 
-## Interview 1
+## Interview 1 - Achala IT Solutions PTV Ltd
 - Can I you tell me what is MVVM
 - What is current project and explain it.
 - Tell me about OOPS Concepts and explain each 
@@ -74,7 +74,7 @@ The concrete method means a method that as implementation. [Learn more](https://
 
 
 
-## Interview 2
+## Interview 2 - Nisum.Com
 
 1. Tell me about yourself
 2. What is your current project
@@ -157,7 +157,7 @@ The concrete method means a method that as implementation. [Learn more](https://
     > A PendingIntent is a token that you give to a foreign application (e.g. NotificationManager, AlarmManager, Home Screen AppWidgetManager, or other 3rd party applications), which allows the foreign application to use your application's permissions to execute a predefined piece of code. [Learn more](https://stackoverflow.com/questions/2808796/what-is-an-android-pendingintent)
 
 
-## Interview 5 [Interview Date - 6th Nov 2021] 
+## Interview 5 [Interview Date - 6th Nov 2021]  - People Tech
 
 - How to launch activity without using class
   > Intent myIntent = new Intent();
